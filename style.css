@@ -3,8 +3,19 @@
 }
 
 @font-face {
-  font-family: WorkSans;
-  src: url("./assets/fonts/static/WorkSans-Regular.ttf") format("ttf");
+  font-family: "WorkSans";
+  font-weight: 400;
+  src: url("./assets/fonts/static/WorkSans-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "WorkSans";
+  font-weight: 600;
+  src: url("./assets/fonts/static/WorkSans-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "WorkSans";
+  font-weight: 700;
+  src: url("./assets/fonts/static/WorkSans-Bold.ttf") format("truetype");
 }
 
 :root {
@@ -20,7 +31,7 @@ body {
   padding: 0;
   position: relative;
   height: 100vh;
-  font-family: WorkSans, sans-serif;
+  font-family: "WorkSans", sans-serif;
   background-color: var(--light-pink);
   overflow-x: hidden;
 }
