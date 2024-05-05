@@ -8,7 +8,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-using-html-and-css-q1C0iq24a)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-vanilla-js-accordion-jja4PEkBqH)
 - Live Site URL: [Github Pages](https://azizy5203.github.io/faq-accordion/)
 
 ## Author
