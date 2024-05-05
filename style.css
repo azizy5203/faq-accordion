@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: WorkSans;
-  src: url("/assets/fonts/static/WorkSans-Regular.ttf") format("ttf");
+  src: url("./assets/fonts/static/WorkSans-Regular.ttf") format("ttf");
 }
 
 :root {
