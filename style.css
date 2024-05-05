@@ -20,7 +20,7 @@ body {
   padding: 0;
   position: relative;
   height: 100vh;
-  font-family: WorkSans;
+  font-family: WorkSans, sans-serif;
   background-color: var(--light-pink);
   overflow-x: hidden;
 }
